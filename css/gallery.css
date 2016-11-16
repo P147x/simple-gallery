@@ -1,0 +1,42 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+#simple-gallery
+{
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+#simple-gallery .img-bloc:hover 
+{
+	  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(1.15);
+  -ms-transform: scale(1.15); /* IE 9 */
+  -webkit-transform: scale(1.15); /* Safari and Chrome */
+  width: 300px;
+  position: relative;
+  z-index: 1000;
+}
+
+.img-bloc
+{
+
+	vertical-align: top;
+	display: inline-block;
+	background-size:cover;
+  	background-repeat:no-repeat;
+  	background-position: center;
+  	width: 220px;
+  	height: 220px;
+  	margin: 20px;
+}
