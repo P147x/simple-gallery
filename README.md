@@ -1,2 +1,4 @@
-# simple-gallery
-light and simple gallery
+# Simple gallery
+## light and simple gallery
+
+
