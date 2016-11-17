@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Cats !</title>
+	<title>Gallery</title>
 	<link rel="stylesheet" type="text/css" href="css/gallery.css">
 	<meta charset="utf-8">
 </head>
